@@ -22,6 +22,8 @@ for (i=0;i<= 10; i++){
 ```
 
 ## Contoh IF ... Else
+```dart
 if(true){
     print('Hello world');
 }
+```
